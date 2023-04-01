@@ -1,0 +1,234 @@
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.dll
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cache
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cs
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.input.cache
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.output.cache
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorCoreGenerate.cache
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cache
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cs
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.Manifest.cache
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.xml
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\evald\Desktop\OPP_Naujas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.dll
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.input.cache
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.output.cache
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.xml
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Admin\Desktop\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.dll
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cache
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cs
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.input.cache
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.output.cache
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorCoreGenerate.cache
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cache
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cs
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.Manifest.cache
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.xml
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Legion\Documents\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.dll
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cache
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cs
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.input.cache
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.output.cache
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorCoreGenerate.cache
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cache
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cs
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.Manifest.cache
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.xml
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\evald\Desktop\visi_OPP\OPP_PRIES_P1\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.dll
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cache
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cs
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.Manifest.cache
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.xml
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Server.styles.css
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.input.cache
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.output.cache
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorCoreGenerate.cache
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cache
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cs
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\jokjur1\Desktop\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.dll
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cache
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cs
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.Manifest.cache
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\staticwebassets\Server.StaticWebAssets.xml
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Server.styles.css
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.input.cache
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.TagHelpers.output.cache
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorCoreGenerate.cache
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cache
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cs
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.Views.pdb
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\jokjur1\Documents\2020\2020Ruduo\Sablonai\objektinis_Projektavimas_2lab\objektinis Projektavimas\objektinis Projektavimas\objektinis Projektavimas\SignalR-GameServer-v1\SignalR-GameServer-v1\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
